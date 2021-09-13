@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L-Marriott,
-- 👀 I’m interested in data! Particularly things with interesting insights
-- 🌱 I’m currently learning neural networks in SKlearn
+- 👀 I’m interested in data! Particularly projects with interesting insights
+- 🌱 I’m currently learning neural networks in SKlearn and developing a foundation in SQL
 - 📫 How to reach me: liamemarriott@gmail.com
 
 <!---
